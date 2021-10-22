@@ -1,5 +1,5 @@
 First install all packages required to run the app 
-to do that run : "npm init" in cmd.
+to do that run : "npm i" in cmd.
 
 To run the app type : "node app.js" in cmd and press enter
 
